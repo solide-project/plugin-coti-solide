@@ -1,0 +1,10 @@
+{
+    "name": "plugin-coti-solide",
+    "displayName": "Coti",
+    "description": "Developer tooling for COTI privacy ecosystem",
+    "url": "https://solide-project.github.io/plugin-coti-solide",
+    "icon": "https://github.com/solide-project/plugin-coti-solide/icon.png",
+    "repo": "https://github.com/solide-project/plugin-coti-solide",
+    "documentation": "",
+    "version": "0.0.1"
+  }
